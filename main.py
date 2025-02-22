@@ -4,7 +4,7 @@ import socket
 import subprocess
 
 # Define password
-password = "shGh1389@"
+password = "Y7r$9VwLz@2bTpA#q1E3X"
 
 # Function to get current connected IPs on the LAN
 def get_connected_ips():
